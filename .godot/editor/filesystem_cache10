@@ -1,0 +1,12 @@
+72322a848ab928aa5c89f0cb78209805
+::res://::1764389209
+export_presets.cfg::TextFile::-1::1764224268::0::1::::<><><>0<>0<><>::
+icon.svg::CompressedTexture2D::1662753084609486128::1764222341::1764222348::1::::<><><>0<>0<>e695999b87394b4cbc3182630d869ab4<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+playground.tscn::PackedScene::6027664115211483147::1764363521::0::1::::<><><>0<>0<><>::uid://cudooxl5qjvbh::::res://Player/player.tscn
+README.md::TextFile::-1::1764369187::0::1::::<><><>0<>0<><>::
+::res://Player/::1764384513
+player.tscn::PackedScene::6183687638837152197::1764384513::0::1::::<><><>0<>0<><>::uid://dgwraptm8lsfy::::res://Player/Sprites/ExamplePlayerSprite.png<>uid://c2yocwawo0c6d::::res://Player/Scripts/player.gd
+::res://Player/Scripts/::1764365751
+player.gd::GDScript::6718339977730028561::1764365751::0::1::::Player<>CharacterBody2D<><>0<>0<><>::
+::res://Player/Sprites/::1764362210
+ExamplePlayerSprite.png::CompressedTexture2D::7626844430165156018::1764362108::1764362210::1::::<><><>0<>0<>2d2684e16175a187acf40ee4b97378b9<>res://.godot/imported/ExamplePlayerSprite.png-1a0713d9e212d397b05cebe8c8b9b26c.ctex::
